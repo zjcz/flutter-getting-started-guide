@@ -1,4 +1,4 @@
-# Flutter Getting Started Gguide
+# Flutter Getting Started Guide
 A collection of resources to help you get started with Flutter and Dart
 
 ## Getting Started
@@ -39,24 +39,24 @@ A collection of resources to help you get started with Flutter and Dart
 - [flutter_bloc](https://pub.dev/packages/flutter_bloc)
 
 ## Riverpod
-[Riverpod package](https://pub.dev/packages/riverpod)
-[Official Site](https://riverpod.dev/) - including [Getting Started](https://riverpod.dev/docs/introduction/getting_started) guide.
-[Testing](https://riverpod.dev/docs/essentials/testing) - Riverpod Testing Guide, and [Testing Cookbook](https://riverpod.dev/docs/cookbooks/testing)
-[Code With Andrea](https://codewithandrea.com/tags/riverpod/) Excellent collection of Riverpod tutorials by Andrea Bizzotto
+- [Riverpod package](https://pub.dev/packages/riverpod)
+- [Official Site](https://riverpod.dev/) - including [Getting Started](https://riverpod.dev/docs/introduction/getting_started) guide.
+- [Testing](https://riverpod.dev/docs/essentials/testing) - Riverpod Testing Guide, and [Testing Cookbook](https://riverpod.dev/docs/cookbooks/testing)
+- [Code With Andrea](https://codewithandrea.com/tags/riverpod/) Excellent collection of Riverpod tutorials by Andrea Bizzotto
 
 ## GitHub Actions
 - [flutter-action](https://github.com/subosito/flutter-action) - Download and install Flutter SDK in your GitHub Actions workflow
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - Deploy Flutter Web to GitHub Pages with GitHub Actions
 
 ## Clean Architecture
-[Clean Architecture Todo App](https://github.com/rodydavis/clean_architecture_todo_app) - A sample todo app to demonstrate Clean Architecture with Riverpod and Drift
+- [Clean Architecture Todo App](https://github.com/rodydavis/clean_architecture_todo_app) - A sample todo app to demonstrate Clean Architecture with Riverpod and Drift
 
 ## Blogs and Tutorials
-[Anna Leushchenko](https://annaleushchenko.com/)
-[Code With Andrea](https://codewithandrea.com/)
-[Yong Shean](https://medium.com/@yshean)
-[r/FlutterDev](https://www.reddit.com/r/FlutterDev/) - Reddit community
-[Google Codelabs](https://codelabs.developers.google.com/?product=flutter) - Flutter Codelabs
+- [Anna Leushchenko](https://annaleushchenko.com/)
+- [Code With Andrea](https://codewithandrea.com/)
+- [Yong Shean](https://medium.com/@yshean)
+- [r/FlutterDev](https://www.reddit.com/r/FlutterDev/) - Reddit community
+- [Google Codelabs](https://codelabs.developers.google.com/?product=flutter) - Flutter Codelabs
 
 ## Miscellaneous
 - [Material 3 Style Guide](https://m3.material.io/styles)
