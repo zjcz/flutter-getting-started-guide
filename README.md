@@ -22,7 +22,7 @@ A collection of resources to help you get started with Flutter and Dart
 - [Flutter Getting Started - Visual Studio Code](https://docs.flutter.dev/get-started/editor?tab=vscode)
 - [Install](https://code.visualstudio.com/)
 - [Flutter and Dart extension](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) ([Website](https://dartcode.org/))
-- [DartPad](https://dartpad.dev/)
+
 ### Emulators and Devices
 - Emulators - [Windows](https://docs.flutter.dev/get-started/install/windows/mobile#configure-your-target-android-device)|[MacOS](https://docs.flutter.dev/get-started/install/macos/mobile-ios#configure-your-target-ios-device)|[Linux](https://docs.flutter.dev/get-started/install/linux/android#configure-your-target-android-device)|[Chrome OS](https://docs.flutter.dev/get-started/install/chromeos/android#configure-your-target-android-device)
 - [Use a Physical Device](https://developer.android.com/studio/run/device#connect), may also require [Configure on-device developer options](https://developer.android.com/studio/debug/dev-options)
@@ -50,6 +50,12 @@ A collection of resources to help you get started with Flutter and Dart
 
 ## Clean Architecture
 - [Clean Architecture Todo App](https://github.com/rodydavis/clean_architecture_todo_app) - A sample todo app to demonstrate Clean Architecture with Riverpod and Drift
+- [Flutter App Architecture with Riverpod](https://codewithandrea.com/articles/flutter-app-architecture-riverpod-introduction/) - A guide to building Flutter apps with Riverpod and Clean Architecture
+
+## Server side
+- [Dart Frong](https://dartfrog.vgv.dev/) - Backend framework for Dart
+- [Serverpod](https://serverpod.dev/) - Open-source, scalable app server, written in Dart for the Flutter community.
+- [Firebase](https://firebase.google.com/) - Google's mobile platform that helps you quickly develop high-quality apps.
 
 ## Blogs and Tutorials
 - [Anna Leushchenko](https://annaleushchenko.com/)
